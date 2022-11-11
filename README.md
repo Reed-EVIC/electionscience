@@ -1,11 +1,11 @@
 # electionscience
 
-## A repository owned by the Elections and Voting Information Center (EVIC) at Reed College
+## A public repository for election science and election administraiton, operated by the Elections and Voting Information Center (EVIC) at Reed College
 
 
-## Paul Gronke, Professor of Political Science at Reed College 
+## Primary Contact: Paul Gronke, Professor of Political Science at Reed College 
 
-Primary maintainance is by EVIC and Reed College, working
+Repository maintainance is by EVIC and Reed College, working
 with research support from post-graduates and students at the College and collaborators in the
 election science community. 
 
